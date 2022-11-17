@@ -18,6 +18,7 @@ body{
     width: 20%;
     margin: 10% 40%;
     border-radius: 5px;
+    display: flexbox;
 }
 h1{
     text-align: center;
